@@ -1,0 +1,32 @@
+_repo: Pippin--A-Wandering-Flame_40176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: A young man who found God while in prison is released into society.
+gutenberg_issued: '2012-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Love stories'
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Young men -- Fiction'
+title: Pippin; A Wandering Flame
+url: http://www.gutenberg.org/ebooks/40176
